@@ -4,6 +4,10 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gonçalo-vidal-ab3980169/)](https://www.linkedin.com/in/gonçalo-vidal-ab3980169/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gmartins.offc@gmail.com)](mailto:gmartins.offc@gmail.com)
+[![Codewars Badge](https://img.shields.io/badge/-Codewars-B1361E?style=flat-square&logo=codewars&logoColor=white&link=https://www.codewars.com/users/psytins)](https://www.codewars.com/users/psytins)
+
+
+
 
 ## 🥭 Who I am ? 
 - 🎓 I'm currently taking **BSc in Computer Science at [Autónoma](https://autonoma.pt) University** in Lisbon, Portugal.
