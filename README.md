@@ -14,7 +14,7 @@
 - ⌛ I'm a **Cybersecurity Enthusiast**, that likes to create **Videogames** and **Applications** in his spare time.
 - 📖 I'm passionate about learning new stuff.
 - 🌠 I love **Science** and all things related to space!
-- 🔭 Check out my **resume** for more! 
+- 🔭 Check out my **[resume](https://github.com/psytins/psytins/blob/main/cv_GonçaloVidal_2022_atualizado.pdf)** for more! 
 
 ## 💻 What I am doing now ?
 - 🎈 I'm currently working in a
