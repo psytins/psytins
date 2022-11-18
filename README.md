@@ -32,7 +32,11 @@
 <img src="https://img.shields.io/badge/Hack%20The%20Box-555555.svg?&style=flat&logo=hack-the-box&logoColor=9FEF00"> <img src="https://img.shields.io/badge/TryHackMe-555555.svg?&style=flat&logo=tryhackme&logoColor=212C42"> <img src="https://img.shields.io/badge/Arduino-555555.svg?&style=flat&logo=arduino&logoColor=00979D"> <img src="https://img.shields.io/badge/Ethereum-555555.svg?&style=flat&logo=ethereum&logoColor=3C3C3D"> <img src="https://img.shields.io/badge/Bitcoin-555555.svg?&style=flat&logo=bitcoin&logoColor=F7931A">  
 
 ## 🚀 GitHub Statistics
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=psytins&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=psytins&theme=gruvbox&hide_border=true&count-private=true)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psytins&theme=gruvbox&hide_border=true&langs_count=10&layout=compact)](https://github.com/psytins/github-readme-stats)
+
+---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=psytins)
+
 
