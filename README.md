@@ -9,14 +9,14 @@
 
 
 
-## 🥭 Who I am ? 
+## 🥭 Who am I? 
 - 🎓 I'm currently taking **BSc in Computer Science at [Autónoma](https://autonoma.pt) University** in Lisbon, Portugal.
 - ⌛ I'm a **Networking and Cybersecurity Enthusiast**, that likes to create **Videogames** or **Applications** in his spare time.
 - 📖 I'm passionate about learning new stuff.
 - 🌠 I love **Science** and all things related to space!
 - 🔭 Check out my **[resume](https://github.com/psytins/psytins/blob/main/cv_GonçaloVidal_2022_atualizado.pdf)** for more! 
 
-## 💻 What I am doing now ?
+## 💻 What am I doing now?
 - 🎈 I'm currently working in a
   - **[Tower Defense Game](https://github.com/psytins/TDLabs)** using **Unity**
   - **[Cryptocurrency Portfolio Windows Application](https://github.com/psytins/cryptogon-portfolio)** using **.NET technologies**.
