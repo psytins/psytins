@@ -11,7 +11,7 @@
 
 
 ## 🥭 Who am I? 
-- 🎓 I'm currently taking **BSc in Computer Science at [Autónoma](https://autonoma.pt) University** in Lisbon, Portugal.
+- 🎓 I'm currently taking **BSc in Computer Science at [Universidade Autónoma de Lisboa](https://autonoma.pt)** in Lisbon, Portugal.
 - ⌛ I'm a **Networking and Cybersecurity Enthusiast**, that likes to create **Videogames** in his spare time.
 - 📖 I'm passionate about learning new stuff.
 - 🌠 I love **Science** and all things related to space!
