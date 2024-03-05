@@ -18,7 +18,7 @@
 - 🔭 Check out my **[resume](https://github.com/psytins/psytins/blob/main/cv_GonçaloVidal_2022_atualizado.pdf)** for more! 
 
 ## 💻 What am I doing now?
-- 🎮 I'm currently involved in several projects with **[GameDev Técnico](https://gamedev.tecnico.ulisboa.pt/about/)**, an association dedicated to *"creating games, developing ideas, engineering creativity."* 
+- 🎮 I'm currently involved in several projects with **[GameDev Técnico](https://gamedev.tecnico.ulisboa.pt/about/)**, an association dedicated to *"Creating games, developing ideas, engineering creativity."* 
 
 ## ⚙️ My main tools and technologies
 <img src="https://img.shields.io/badge/GitHub-555555.svg?&style=flat&logo=github&logoColor=181717"> <img src="https://img.shields.io/badge/Linux-555555.svg?&style=flat&logo=linux&logoColor=FCC624"> <img src="https://img.shields.io/badge/Windows-555555.svg?&style=flat&logo=windows&logoColor=0078D6"> <img src="https://img.shields.io/badge/VS Code-555555?style=flat&logo=visual-studio-code&logoColor=007ACC"> <img src="https://img.shields.io/badge/Visual%20Studio-555555.svg?&style=flat&logo=visual-studio&logoColor=5C2D91"> <img src="https://img.shields.io/badge/IntelliJ%20IDEA-555555.svg?&style=flat&logo=intellij-idea&logoColor=FA5C5C"> <img src="https://img.shields.io/badge/Unity-555555.svg?&style=flat&logo=Unity&logoColor=FFFFFF"> <br>
