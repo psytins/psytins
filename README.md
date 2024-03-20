@@ -15,7 +15,7 @@
 - ⌛ I'm a **Networking and Cybersecurity Enthusiast**, that likes to create **Videogames** in his spare time.
 - 📖 I'm passionate about learning new stuff.
 - 🌠 I love **Science** and all things related to space!
-- 🔭 Check out my **[resume](https://github.com/psytins/psytins/blob/3b373f418087bdd8186c2e764b6b669a796907e5/cv_pt_en_Gon%C3%A7aloVidal_20_03_2024_final.pdf)** for more! 
+- 🔭 Check out my **[resume](https://github.com/psytins/psytins/blob/f088dccf1f77d74bd8ba43ee3cb786e99d50fb42/cv_pt_en_Gon%C3%A7aloVidal_20_03_2024_final.pdf)** for more! 
 
 ## 💻 What am I doing now?
 - 🎮 I'm currently involved in several projects with **[GameDev Técnico](https://gamedev.tecnico.ulisboa.pt/about/)**, an association of Instituto Superior Técnico ULisboa, dedicated to *"Creating games, developing ideas, engineering creativity."*
