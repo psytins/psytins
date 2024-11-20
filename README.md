@@ -11,8 +11,8 @@
 
 
 ## 🥭 Who am I? 
-- 🎓 I'm currently taking **BSc in Computer Science at [Universidade Autónoma de Lisboa](https://autonoma.pt)** in Lisbon, Portugal.
-- ⌛ I'm a **Networking and Cybersecurity Enthusiast**, that likes to create **Videogames** in his spare time.
+- 🎓 I'm currently taking **MSc in Computer Science & Engineering at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/)** in Lisbon, Portugal.
+- ⌛ I'm a **Networking and Cybersecurity Enthusiast**.
 - 📖 I'm passionate about learning new stuff.
 - 🌠 I love **Science** and all things related to space!
 - 🔭 Check out my **[resume](https://github.com/psytins/psytins/blob/a0a876cd48f243c7e04da0343c8825de1c604213/cv_pt_en_Gon%C3%A7aloVidal_20_03_2024_final.pdf)** for more! 
