@@ -11,7 +11,7 @@
 - 🎓 Currently pursuing a **Master's in Computer Science & Engineering** at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/), specializing in **Cybersecurity**.
 - 🛡️ Focused on **Pentesting, Network Security, and Digital Forensics**.
 - 🌠 Passionate about Science, Astronomy, and Music.
-- 📄 [**Download my Resume**](./path_to_your_new_cv.pdf)
+- 📄 [**Download my Resume**](https://github.com/psytins/psytins/blob/main/CV_2026.pdf)
 
 ## 🛠️ Cybersecurity Toolkit
 
@@ -25,7 +25,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/SQL-%23316192.svg?logo=postgresql&logoColor=white">
 
 ## 🚀 Proof of Work
-- 📑 [**Security Writeups**](link_para_repo_de_writeups): Detailed analysis of THM/HTB machines.
+
 
 ---
 
