@@ -29,10 +29,4 @@
 
 ---
 
-### 📊 GitHub Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=psytins&theme=gruvbox&hide_border=true&count-private=true)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psytins&theme=gruvbox&hide_border=true&langs_count=10&layout=compact)](https://github.com/psytins/github-readme-stats)
-
----
-
 ![Profile Views](https://komarev.com/ghpvc/?username=psytins)
