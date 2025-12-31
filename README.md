@@ -1,40 +1,34 @@
-<img src="https://i.pinimg.com/originals/bb/b0/f9/bbb0f94cd0afca974bed090c7f31aa95.jpg" widht=601 height=200>
+# 🛡️ Gonçalo Vidal
 
-<h2> Hello there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="20px"> My name is Gonçalo Vidal 👾</h2>
+### MSc, Computer Science & Engineering @ Instituto Superior Técnico | Cybersecurity
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gonçalo-vidal-ab3980169/)](https://www.linkedin.com/in/gonçalo-vidal-ab3980169/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gmartins.offc@gmail.com)](mailto:gmartins.offc@gmail.com)
-[![Itch.io Badge](https://img.shields.io/badge/-Itch.io-FA5C5C?style=flat-square&logo=itchdotio&logoColor=white&link=https://psytins.itch.io)](https://psytins.itch.io)
-[![Codewars Badge](https://img.shields.io/badge/-Codewars-B1361E?style=flat-square&logo=codewars&logoColor=white&link=https://www.codewars.com/users/psytins)](https://www.codewars.com/users/psytins)
-
-
-
-
-## 🥭 Who am I? 
-- 🎓 I'm currently taking **MSc in Computer Science & Engineering at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/)** in Lisbon, Portugal.
-- ⌛ I'm a **Networking and Cybersecurity Enthusiast**.
-- 📖 I'm passionate about learning new stuff.
-- 🌠 I love **Science** and all things related to space!
-- 🔭 Check out my **[resume](https://github.com/psytins/psytins/blob/a0a876cd48f243c7e04da0343c8825de1c604213/cv_pt_en_Gon%C3%A7aloVidal_20_03_2024_final.pdf)** for more! 
-
-## 💻 What am I doing now?
-- 🎮 I'm currently involved in several projects with **[GameDev Técnico](https://gamedev.tecnico.ulisboa.pt/about/)**, an association of Instituto Superior Técnico ULisboa, dedicated to *"Creating games, developing ideas, engineering creativity."*
-
-## ⚙️ My main tools and technologies
-<img src="https://img.shields.io/badge/GitHub-555555.svg?&style=flat&logo=github&logoColor=181717"> <img src="https://img.shields.io/badge/Linux-555555.svg?&style=flat&logo=linux&logoColor=FCC624"> <img src="https://img.shields.io/badge/Windows-555555.svg?&style=flat&logo=windows&logoColor=0078D6"> <img src="https://img.shields.io/badge/VS Code-555555?style=flat&logo=visual-studio-code&logoColor=007ACC"> <img src="https://img.shields.io/badge/Visual%20Studio-555555.svg?&style=flat&logo=visual-studio&logoColor=5C2D91"> <img src="https://img.shields.io/badge/IntelliJ%20IDEA-555555.svg?&style=flat&logo=intellij-idea&logoColor=FA5C5C"> <img src="https://img.shields.io/badge/Unity-555555.svg?&style=flat&logo=Unity&logoColor=FFFFFF"> <br>
-<img src="https://img.shields.io/badge/C/C++-555555.svg?&style=flat&logo=c&logoColor=A8B9CC"> <img src="https://img.shields.io/badge/C%20Sharp-555555.svg?&style=flat&logo=c-sharp&logoColor=239120"> <img src="https://img.shields.io/badge/Python-555555.svg?&style=flat&logo=python&logoColor=3776AB"> <img src="https://img.shields.io/badge/JavaScript-555555.svg?&style=flat&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/HTML5-555555.svg?&style=flat&logo=html5&logoColor=E34F26"> <img src="https://img.shields.io/badge/CSS3-555555.svg?&style=flat&logo=css3&logoColor=1572B6">
-
-
-## 🎨 Other tools and technologies
-<img src="https://img.shields.io/badge/Adobe%20Photoshop-555555.svg?&style=flat&logo=adobe-photoshop&logoColor=31A8FF"> <img src="https://img.shields.io/badge/Inkscape-555555.svg?&style=flat&logo=inkscape&logoColor=000000"> <img src="https://img.shields.io/badge/VirtualBox-555555.svg?&style=flat&logo=virtualbox&logoColor=183A61"> <img src="https://img.shields.io/badge/Wireshark-555555.svg?&style=flat&logo=wireshark&logoColor=1679A7"> <img src="https://img.shields.io/badge/Cisco-555555.svg?&style=flat&logo=cisco&logoColor=1BA0D7"> <img src="https://img.shields.io/badge/IBM-555555.svg?&style=flat&logo=ibm&logoColor=052FAD"> <br>
-<img src="https://img.shields.io/badge/Hack%20The%20Box-555555.svg?&style=flat&logo=hack-the-box&logoColor=9FEF00"> <img src="https://img.shields.io/badge/TryHackMe-555555.svg?&style=flat&logo=tryhackme&logoColor=212C42"> <img src="https://img.shields.io/badge/Arduino-555555.svg?&style=flat&logo=arduino&logoColor=00979D"> <img src="https://img.shields.io/badge/Ethereum-555555.svg?&style=flat&logo=ethereum&logoColor=3C3C3D"> <img src="https://img.shields.io/badge/Bitcoin-555555.svg?&style=flat&logo=bitcoin&logoColor=F7931A">  
-
-## 🚀 GitHub Statistics
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=psytins&theme=gruvbox&hide_border=true&count-private=true)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psytins&theme=gruvbox&hide_border=true&langs_count=10&layout=compact)](https://github.com/psytins/github-readme-stats)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gonçalo-vidal-ab3980169/)](https://www.linkedin.com/in/gonçalo-vidal-ab3980169/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:gmartins.offc@gmail.com)](mailto:gmartins.offc@gmail.com)
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=psytins)
+## 👨‍💻 About Me
+- 🎓 Currently pursuing a **Master's in Computer Science & Engineering** at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/), specializing in **Cybersecurity**.
+- 🛡️ Focused on **Pentesting, Network Security, and Digital Forensics**.
+- 🌠 Passionate about Science, Astronomy, and Music.
+- 📄 [**Download my Resume**](./path_to_your_new_cv.pdf)
 
+## 🛠️ Cybersecurity Toolkit
 
+### 🔴 Offensive Security
+<img src="https://img.shields.io/badge/Nmap-011627?style=flat-square&logo=nmap&logoColor=white"> <img src="https://img.shields.io/badge/Metasploit-2496ED?style=flat-square&logo=metasploit&logoColor=white"> <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white"> <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burp-suite&logoColor=white">
+
+### 🔵 Analysis & Defense
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"> <img src="https://img.shields.io/badge/IBM_QRadar-052FAD?style=flat-square&logo=ibm&logoColor=white"> <img src="https://img.shields.io/badge/NIST_Framework-000000?style=flat-square&logo=securityscorecard&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
+
+### 💻 Development & Automation
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/SQL-%23316192.svg?logo=postgresql&logoColor=white">
+
+## 🚀 Proof of Work
+- 📑 [**Security Writeups**](link_para_repo_de_writeups): Detailed analysis of THM/HTB machines.
+
+---
+
+### 📊 GitHub Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=psytins&theme=gruvbox&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psytins&theme=gruvbox&hide_border=true&layout=compact)
